@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Austin Coding Academy**
 
-- 🌱 I’m currently learning **React, Express, Node**
+- 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on **JavaScript**
 
