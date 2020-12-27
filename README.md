@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattcoston" alt="mattcoston" /> </p>
 
-- 🔭 I’m currently working on **Austin Coding Academy**
+- 🔭 I’m currently learning React at **Austin Coding Academy**
 
 - 🌱 I’m currently learning **React JS**
 
