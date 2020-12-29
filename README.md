@@ -17,5 +17,5 @@
 
 
 <p align="center">
-<a href="https://twitter.com/@faust299" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@faust299" height="30" width="30" /></a>
+<a href="https://twitter.com/@faust299" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@faust299" height="40" width="40" /></a>
 </p>
