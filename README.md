@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattcoston" alt="mattcoston" /> </p>
 
-- 🔭 I’m currently learning React at **Austin Coding Academy**
+- 🔭 I’m currently learning Python and JS
 
-- 🌱 I’m currently learning **React JS**
-
-- 👯 I’m looking to collaborate on **JavaScript**
+- 👯 I’m looking to collaborate on **JavaScript** and **Python**
 
 - 👨‍💻 All of my projects are available at [github.com/mattcoston](github.com/mattcoston)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about anything
 
 - 📫 How to reach me: **@faust299 on Twitter**
 
