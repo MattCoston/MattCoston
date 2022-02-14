@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattcoston" alt="mattcoston" /> </p>
 
-- 🔭 I’m currently learning Python and JS
+- 🔭 I’m currently learning Java.
 
-- 👯 I’m looking to collaborate on **JavaScript** and **Python**
+- 👯 I’m looking to collaborate on any programming projects.
 
 - 👨‍💻 All of my projects are available at [github.com/mattcoston](github.com/mattcoston)
 
-- 💬 Ask me about anything
+- 💬 Ask me about anything code related.
 
 - 📫 How to reach me: **@faust299 on Twitter**
 
