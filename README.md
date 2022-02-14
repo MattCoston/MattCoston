@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
-<h3 align="center">A passionate frontend developer from Texas</h3>
+<h3 align="center">A passionate developer from Texas studying at WGU.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattcoston" alt="mattcoston" /> </p>
 
