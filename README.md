@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattcoston" alt="mattcoston" /> </p>
 
-- 🔭 I’m currently learning Java.
+- 🔭 I’m currently learning C# through my studies at Western Governors University.
 
 - 👯 I’m looking to collaborate on any programming projects.
 
