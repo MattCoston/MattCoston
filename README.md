@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattcoston" alt="mattcoston" /> </p>
 
-- 🔭 I’m currently learning C# through my studies at Western Governors University.
+- 🔭 I’m currently learning Java through my studies at Western Governors University.
 
 - 👯 I’m looking to collaborate on any programming projects.
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about anything code related.
 
-- 📫 How to reach me: **@faust299 on Twitter**
+- 📫 How to reach me: **@faust299 on Threads**
 
 
 <p align="center">
