@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattcoston" alt="mattcoston" /> </p>
 
-- 🔭 I’m currently learning Java through my studies at Western Governors University.
+- 🔭 I’m currently a cloud operations Engineer honing my python skills.
 
 - 👯 I’m looking to collaborate on any programming projects.
 
 - 👨‍💻 All of my projects are available at [github.com/mattcoston](github.com/mattcoston)
 
-- 💬 Ask me about anything code related.
+- 💬 Ask me about anything DevOps/Kubernetes/Automation related.
 
 - 📫 How to reach me: **@faust299 on Threads**
 
