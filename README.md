@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattcoston" alt="mattcoston" /> </p>
 
-- 🔭 I’m currently a cloud operations Engineer honing my python skills.
+- 🔭 I’m currently a cloud operations engineer honing my Python skills.
 
 - 👯 I’m looking to collaborate on any programming projects.
 
