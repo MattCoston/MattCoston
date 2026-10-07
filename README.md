@@ -10,6 +10,8 @@ Code, and observability.
 
 **Certifications:** AWS Solutions Architect Associate, AWS Cloud Practitioner,
 CompTIA Security+ / Network+ / A+, LPI Linux Essentials
+
+
 **In progress:** CKA, GitHub Actions (GH-200)
 
 [LinkedIn](https://www.linkedin.com/in/mattcoston)
