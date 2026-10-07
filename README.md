@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
-<h3 align="center">A passionate Cloud Operations Engineer from Texas.</h3>
+Cloud Operations Engineer II. I support production Linux, Kubernetes, and AWS
+infrastructure and I'm building hands-on projects in CI/CD, Infrastructure as
+Code, and observability.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mattcoston" alt="mattcoston" /> </p>
+**Roadmap**
+- Python app with a GitHub Actions pipeline (test, build, publish to GHCR)
+- Terraform on AWS with plan-on-PR
+- k3s cluster configured with Ansible, monitored with Prometheus and Grafana
 
-- 🔭 I’m currently a cloud operations engineer honing my Python skills.
+**Certifications:** AWS Solutions Architect Associate, AWS Cloud Practitioner,
+CompTIA Security+ / Network+ / A+, LPI Linux Essentials
+**In progress:** CKA, GitHub Actions (GH-200)
 
-- 👯 I’m looking to collaborate on any programming projects.
-
-- 👨‍💻 All of my projects are available at [github.com/mattcoston](github.com/mattcoston)
-
-- 💬 Ask me about anything DevOps/Kubernetes/Automation related.
-
-- 📫 How to reach me: **@faust299 on Threads**
-
-
-
+[LinkedIn](https://www.linkedin.com/in/mattcoston)
